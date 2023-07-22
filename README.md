@@ -1,1 +1,1 @@
-# E-wallet-app
+# E-wallet-app - HTML CSS and JS
